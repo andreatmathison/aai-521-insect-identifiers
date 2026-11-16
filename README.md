@@ -1,4 +1,4 @@
-# Automated Butterfly Species Classification
+# Insect Identification of Pollinator Butterfly Species
 **University of San Diego — Shiley-Marcos School of Engineering**  
 **Course:** AAI-521, Group 4 "Insect Identifiers!"
 
